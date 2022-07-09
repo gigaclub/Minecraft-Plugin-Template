@@ -1,7 +1,7 @@
 name: Pluginname
 version: '${version}'
-main: net.gigaclub.pluginname.Main
-api-version: 1.18
+main: net.gigaclub.pluginname.Pluginname
+api-version: 1.19
 prefix: GigaClub
 load: POSTWORLD
 authors: [ GigaClub ]
